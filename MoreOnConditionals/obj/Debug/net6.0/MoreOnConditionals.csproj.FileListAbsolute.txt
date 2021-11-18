@@ -1,0 +1,15 @@
+C:\Users\melin\Desktop\RevatureGit\MelindaW\MoreOnConditionals\bin\Debug\net6.0\MoreOnConditionals.exe
+C:\Users\melin\Desktop\RevatureGit\MelindaW\MoreOnConditionals\bin\Debug\net6.0\MoreOnConditionals.deps.json
+C:\Users\melin\Desktop\RevatureGit\MelindaW\MoreOnConditionals\bin\Debug\net6.0\MoreOnConditionals.runtimeconfig.json
+C:\Users\melin\Desktop\RevatureGit\MelindaW\MoreOnConditionals\bin\Debug\net6.0\MoreOnConditionals.dll
+C:\Users\melin\Desktop\RevatureGit\MelindaW\MoreOnConditionals\bin\Debug\net6.0\ref\MoreOnConditionals.dll
+C:\Users\melin\Desktop\RevatureGit\MelindaW\MoreOnConditionals\bin\Debug\net6.0\MoreOnConditionals.pdb
+C:\Users\melin\Desktop\RevatureGit\MelindaW\MoreOnConditionals\obj\Debug\net6.0\MoreOnConditionals.csproj.AssemblyReference.cache
+C:\Users\melin\Desktop\RevatureGit\MelindaW\MoreOnConditionals\obj\Debug\net6.0\MoreOnConditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melin\Desktop\RevatureGit\MelindaW\MoreOnConditionals\obj\Debug\net6.0\MoreOnConditionals.AssemblyInfoInputs.cache
+C:\Users\melin\Desktop\RevatureGit\MelindaW\MoreOnConditionals\obj\Debug\net6.0\MoreOnConditionals.AssemblyInfo.cs
+C:\Users\melin\Desktop\RevatureGit\MelindaW\MoreOnConditionals\obj\Debug\net6.0\MoreOnConditionals.csproj.CoreCompileInputs.cache
+C:\Users\melin\Desktop\RevatureGit\MelindaW\MoreOnConditionals\obj\Debug\net6.0\MoreOnConditionals.dll
+C:\Users\melin\Desktop\RevatureGit\MelindaW\MoreOnConditionals\obj\Debug\net6.0\ref\MoreOnConditionals.dll
+C:\Users\melin\Desktop\RevatureGit\MelindaW\MoreOnConditionals\obj\Debug\net6.0\MoreOnConditionals.pdb
+C:\Users\melin\Desktop\RevatureGit\MelindaW\MoreOnConditionals\obj\Debug\net6.0\MoreOnConditionals.genruntimeconfig.cache

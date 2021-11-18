@@ -1,0 +1,15 @@
+C:\Users\melin\Desktop\RevatureGit\MelindaW\LoopingWithNumbers\obj\Debug\net6.0\LoopingWithNumbers.csproj.AssemblyReference.cache
+C:\Users\melin\Desktop\RevatureGit\MelindaW\LoopingWithNumbers\obj\Debug\net6.0\LoopingWithNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melin\Desktop\RevatureGit\MelindaW\LoopingWithNumbers\obj\Debug\net6.0\LoopingWithNumbers.AssemblyInfoInputs.cache
+C:\Users\melin\Desktop\RevatureGit\MelindaW\LoopingWithNumbers\obj\Debug\net6.0\LoopingWithNumbers.AssemblyInfo.cs
+C:\Users\melin\Desktop\RevatureGit\MelindaW\LoopingWithNumbers\obj\Debug\net6.0\LoopingWithNumbers.csproj.CoreCompileInputs.cache
+C:\Users\melin\Desktop\RevatureGit\MelindaW\LoopingWithNumbers\bin\Debug\net6.0\LoopingWithNumbers.exe
+C:\Users\melin\Desktop\RevatureGit\MelindaW\LoopingWithNumbers\bin\Debug\net6.0\LoopingWithNumbers.deps.json
+C:\Users\melin\Desktop\RevatureGit\MelindaW\LoopingWithNumbers\bin\Debug\net6.0\LoopingWithNumbers.runtimeconfig.json
+C:\Users\melin\Desktop\RevatureGit\MelindaW\LoopingWithNumbers\bin\Debug\net6.0\LoopingWithNumbers.dll
+C:\Users\melin\Desktop\RevatureGit\MelindaW\LoopingWithNumbers\bin\Debug\net6.0\ref\LoopingWithNumbers.dll
+C:\Users\melin\Desktop\RevatureGit\MelindaW\LoopingWithNumbers\bin\Debug\net6.0\LoopingWithNumbers.pdb
+C:\Users\melin\Desktop\RevatureGit\MelindaW\LoopingWithNumbers\obj\Debug\net6.0\LoopingWithNumbers.dll
+C:\Users\melin\Desktop\RevatureGit\MelindaW\LoopingWithNumbers\obj\Debug\net6.0\ref\LoopingWithNumbers.dll
+C:\Users\melin\Desktop\RevatureGit\MelindaW\LoopingWithNumbers\obj\Debug\net6.0\LoopingWithNumbers.pdb
+C:\Users\melin\Desktop\RevatureGit\MelindaW\LoopingWithNumbers\obj\Debug\net6.0\LoopingWithNumbers.genruntimeconfig.cache

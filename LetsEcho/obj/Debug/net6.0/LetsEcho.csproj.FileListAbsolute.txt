@@ -1,0 +1,15 @@
+C:\Users\melin\Desktop\RevatureGit\MelindaW\LetsEcho\bin\Debug\net6.0\LetsEcho.exe
+C:\Users\melin\Desktop\RevatureGit\MelindaW\LetsEcho\bin\Debug\net6.0\LetsEcho.deps.json
+C:\Users\melin\Desktop\RevatureGit\MelindaW\LetsEcho\bin\Debug\net6.0\LetsEcho.runtimeconfig.json
+C:\Users\melin\Desktop\RevatureGit\MelindaW\LetsEcho\bin\Debug\net6.0\LetsEcho.dll
+C:\Users\melin\Desktop\RevatureGit\MelindaW\LetsEcho\bin\Debug\net6.0\ref\LetsEcho.dll
+C:\Users\melin\Desktop\RevatureGit\MelindaW\LetsEcho\bin\Debug\net6.0\LetsEcho.pdb
+C:\Users\melin\Desktop\RevatureGit\MelindaW\LetsEcho\obj\Debug\net6.0\LetsEcho.csproj.AssemblyReference.cache
+C:\Users\melin\Desktop\RevatureGit\MelindaW\LetsEcho\obj\Debug\net6.0\LetsEcho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melin\Desktop\RevatureGit\MelindaW\LetsEcho\obj\Debug\net6.0\LetsEcho.AssemblyInfoInputs.cache
+C:\Users\melin\Desktop\RevatureGit\MelindaW\LetsEcho\obj\Debug\net6.0\LetsEcho.AssemblyInfo.cs
+C:\Users\melin\Desktop\RevatureGit\MelindaW\LetsEcho\obj\Debug\net6.0\LetsEcho.csproj.CoreCompileInputs.cache
+C:\Users\melin\Desktop\RevatureGit\MelindaW\LetsEcho\obj\Debug\net6.0\LetsEcho.dll
+C:\Users\melin\Desktop\RevatureGit\MelindaW\LetsEcho\obj\Debug\net6.0\ref\LetsEcho.dll
+C:\Users\melin\Desktop\RevatureGit\MelindaW\LetsEcho\obj\Debug\net6.0\LetsEcho.pdb
+C:\Users\melin\Desktop\RevatureGit\MelindaW\LetsEcho\obj\Debug\net6.0\LetsEcho.genruntimeconfig.cache

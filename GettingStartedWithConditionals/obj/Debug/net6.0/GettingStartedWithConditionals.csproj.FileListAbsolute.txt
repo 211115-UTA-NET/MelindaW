@@ -1,0 +1,15 @@
+C:\Users\melin\Desktop\RevatureGit\MelindaW\GettingStartedWithConditionals\obj\Debug\net6.0\GettingStartedWithConditionals.csproj.AssemblyReference.cache
+C:\Users\melin\Desktop\RevatureGit\MelindaW\GettingStartedWithConditionals\obj\Debug\net6.0\GettingStartedWithConditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melin\Desktop\RevatureGit\MelindaW\GettingStartedWithConditionals\obj\Debug\net6.0\GettingStartedWithConditionals.AssemblyInfoInputs.cache
+C:\Users\melin\Desktop\RevatureGit\MelindaW\GettingStartedWithConditionals\obj\Debug\net6.0\GettingStartedWithConditionals.AssemblyInfo.cs
+C:\Users\melin\Desktop\RevatureGit\MelindaW\GettingStartedWithConditionals\obj\Debug\net6.0\GettingStartedWithConditionals.csproj.CoreCompileInputs.cache
+C:\Users\melin\Desktop\RevatureGit\MelindaW\GettingStartedWithConditionals\bin\Debug\net6.0\GettingStartedWithConditionals.exe
+C:\Users\melin\Desktop\RevatureGit\MelindaW\GettingStartedWithConditionals\bin\Debug\net6.0\GettingStartedWithConditionals.deps.json
+C:\Users\melin\Desktop\RevatureGit\MelindaW\GettingStartedWithConditionals\bin\Debug\net6.0\GettingStartedWithConditionals.runtimeconfig.json
+C:\Users\melin\Desktop\RevatureGit\MelindaW\GettingStartedWithConditionals\bin\Debug\net6.0\GettingStartedWithConditionals.dll
+C:\Users\melin\Desktop\RevatureGit\MelindaW\GettingStartedWithConditionals\bin\Debug\net6.0\ref\GettingStartedWithConditionals.dll
+C:\Users\melin\Desktop\RevatureGit\MelindaW\GettingStartedWithConditionals\bin\Debug\net6.0\GettingStartedWithConditionals.pdb
+C:\Users\melin\Desktop\RevatureGit\MelindaW\GettingStartedWithConditionals\obj\Debug\net6.0\GettingStartedWithConditionals.dll
+C:\Users\melin\Desktop\RevatureGit\MelindaW\GettingStartedWithConditionals\obj\Debug\net6.0\ref\GettingStartedWithConditionals.dll
+C:\Users\melin\Desktop\RevatureGit\MelindaW\GettingStartedWithConditionals\obj\Debug\net6.0\GettingStartedWithConditionals.pdb
+C:\Users\melin\Desktop\RevatureGit\MelindaW\GettingStartedWithConditionals\obj\Debug\net6.0\GettingStartedWithConditionals.genruntimeconfig.cache
