@@ -12,7 +12,6 @@ namespace StringManipulationChallenge
             string fName;           //this will hold the users first name
             string lName;           //this will hold the users last name
             string userFullName;    //this will hold the users full name;
-            
             //
             //
             //implement the required code here and within the methods below.
@@ -122,7 +121,7 @@ namespace StringManipulationChallenge
         // 2) return the new string.
         public static string ConcatNames(string fName, string lName){
             string fullName = fName + " " + lName;
-           return fullName;
+            return fullName;
         }
 
 
