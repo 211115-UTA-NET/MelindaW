@@ -1,0 +1,15 @@
+C:\Users\melin\OneDrive\desktop\RevGit\MelindaW\MyStringManipulation\bin\Debug\net6.0\MyStringManipulation.exe
+C:\Users\melin\OneDrive\desktop\RevGit\MelindaW\MyStringManipulation\bin\Debug\net6.0\MyStringManipulation.deps.json
+C:\Users\melin\OneDrive\desktop\RevGit\MelindaW\MyStringManipulation\bin\Debug\net6.0\MyStringManipulation.runtimeconfig.json
+C:\Users\melin\OneDrive\desktop\RevGit\MelindaW\MyStringManipulation\bin\Debug\net6.0\MyStringManipulation.dll
+C:\Users\melin\OneDrive\desktop\RevGit\MelindaW\MyStringManipulation\bin\Debug\net6.0\ref\MyStringManipulation.dll
+C:\Users\melin\OneDrive\desktop\RevGit\MelindaW\MyStringManipulation\bin\Debug\net6.0\MyStringManipulation.pdb
+C:\Users\melin\OneDrive\desktop\RevGit\MelindaW\MyStringManipulation\obj\Debug\net6.0\MyStringManipulation.csproj.AssemblyReference.cache
+C:\Users\melin\OneDrive\desktop\RevGit\MelindaW\MyStringManipulation\obj\Debug\net6.0\MyStringManipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melin\OneDrive\desktop\RevGit\MelindaW\MyStringManipulation\obj\Debug\net6.0\MyStringManipulation.AssemblyInfoInputs.cache
+C:\Users\melin\OneDrive\desktop\RevGit\MelindaW\MyStringManipulation\obj\Debug\net6.0\MyStringManipulation.AssemblyInfo.cs
+C:\Users\melin\OneDrive\desktop\RevGit\MelindaW\MyStringManipulation\obj\Debug\net6.0\MyStringManipulation.csproj.CoreCompileInputs.cache
+C:\Users\melin\OneDrive\desktop\RevGit\MelindaW\MyStringManipulation\obj\Debug\net6.0\MyStringManipulation.dll
+C:\Users\melin\OneDrive\desktop\RevGit\MelindaW\MyStringManipulation\obj\Debug\net6.0\ref\MyStringManipulation.dll
+C:\Users\melin\OneDrive\desktop\RevGit\MelindaW\MyStringManipulation\obj\Debug\net6.0\MyStringManipulation.pdb
+C:\Users\melin\OneDrive\desktop\RevGit\MelindaW\MyStringManipulation\obj\Debug\net6.0\MyStringManipulation.genruntimeconfig.cache
