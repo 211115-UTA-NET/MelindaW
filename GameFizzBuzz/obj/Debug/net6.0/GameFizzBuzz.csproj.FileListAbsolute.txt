@@ -1,0 +1,15 @@
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\GameFizzBuzz\bin\Debug\net6.0\GameFizzBuzz.exe
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\GameFizzBuzz\bin\Debug\net6.0\GameFizzBuzz.deps.json
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\GameFizzBuzz\bin\Debug\net6.0\GameFizzBuzz.runtimeconfig.json
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\GameFizzBuzz\bin\Debug\net6.0\GameFizzBuzz.dll
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\GameFizzBuzz\bin\Debug\net6.0\ref\GameFizzBuzz.dll
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\GameFizzBuzz\bin\Debug\net6.0\GameFizzBuzz.pdb
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\GameFizzBuzz\obj\Debug\net6.0\GameFizzBuzz.csproj.AssemblyReference.cache
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\GameFizzBuzz\obj\Debug\net6.0\GameFizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\GameFizzBuzz\obj\Debug\net6.0\GameFizzBuzz.AssemblyInfoInputs.cache
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\GameFizzBuzz\obj\Debug\net6.0\GameFizzBuzz.AssemblyInfo.cs
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\GameFizzBuzz\obj\Debug\net6.0\GameFizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\GameFizzBuzz\obj\Debug\net6.0\GameFizzBuzz.dll
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\GameFizzBuzz\obj\Debug\net6.0\ref\GameFizzBuzz.dll
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\GameFizzBuzz\obj\Debug\net6.0\GameFizzBuzz.pdb
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\GameFizzBuzz\obj\Debug\net6.0\GameFizzBuzz.genruntimeconfig.cache
