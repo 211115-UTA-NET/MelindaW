@@ -1,0 +1,15 @@
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\Functions\obj\Debug\net6.0\Functions.csproj.AssemblyReference.cache
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\Functions\obj\Debug\net6.0\Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\Functions\obj\Debug\net6.0\Functions.AssemblyInfoInputs.cache
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\Functions\obj\Debug\net6.0\Functions.AssemblyInfo.cs
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\Functions\obj\Debug\net6.0\Functions.csproj.CoreCompileInputs.cache
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\Functions\bin\Debug\net6.0\Functions.exe
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\Functions\bin\Debug\net6.0\Functions.deps.json
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\Functions\bin\Debug\net6.0\Functions.runtimeconfig.json
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\Functions\bin\Debug\net6.0\Functions.dll
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\Functions\bin\Debug\net6.0\ref\Functions.dll
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\Functions\bin\Debug\net6.0\Functions.pdb
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\Functions\obj\Debug\net6.0\Functions.dll
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\Functions\obj\Debug\net6.0\ref\Functions.dll
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\Functions\obj\Debug\net6.0\Functions.pdb
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\Functions\obj\Debug\net6.0\Functions.genruntimeconfig.cache
