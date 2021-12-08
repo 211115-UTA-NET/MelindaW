@@ -1,0 +1,15 @@
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\RockPaperScissorsApp\RockPaperScissorsApp.App\bin\Debug\net6.0\RockPaperScissorsApp.App.exe
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\RockPaperScissorsApp\RockPaperScissorsApp.App\bin\Debug\net6.0\RockPaperScissorsApp.App.deps.json
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\RockPaperScissorsApp\RockPaperScissorsApp.App\bin\Debug\net6.0\RockPaperScissorsApp.App.runtimeconfig.json
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\RockPaperScissorsApp\RockPaperScissorsApp.App\bin\Debug\net6.0\RockPaperScissorsApp.App.dll
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\RockPaperScissorsApp\RockPaperScissorsApp.App\bin\Debug\net6.0\ref\RockPaperScissorsApp.App.dll
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\RockPaperScissorsApp\RockPaperScissorsApp.App\bin\Debug\net6.0\RockPaperScissorsApp.App.pdb
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\RockPaperScissorsApp\RockPaperScissorsApp.App\obj\Debug\net6.0\RockPaperScissorsApp.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\RockPaperScissorsApp\RockPaperScissorsApp.App\obj\Debug\net6.0\RockPaperScissorsApp.App.AssemblyInfoInputs.cache
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\RockPaperScissorsApp\RockPaperScissorsApp.App\obj\Debug\net6.0\RockPaperScissorsApp.App.AssemblyInfo.cs
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\RockPaperScissorsApp\RockPaperScissorsApp.App\obj\Debug\net6.0\RockPaperScissorsApp.App.csproj.CoreCompileInputs.cache
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\RockPaperScissorsApp\RockPaperScissorsApp.App\obj\Debug\net6.0\RockPaperScissorsApp.App.dll
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\RockPaperScissorsApp\RockPaperScissorsApp.App\obj\Debug\net6.0\ref\RockPaperScissorsApp.App.dll
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\RockPaperScissorsApp\RockPaperScissorsApp.App\obj\Debug\net6.0\RockPaperScissorsApp.App.pdb
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\RockPaperScissorsApp\RockPaperScissorsApp.App\obj\Debug\net6.0\RockPaperScissorsApp.App.genruntimeconfig.cache
+C:\Users\melin\OneDrive\Desktop\RevGit\MelindaW\RockPaperScissorsApp\RockPaperScissorsApp.App\obj\Debug\net6.0\RockPaperScissorsApp.App.csproj.AssemblyReference.cache
